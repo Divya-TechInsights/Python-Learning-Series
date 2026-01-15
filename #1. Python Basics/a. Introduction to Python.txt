@@ -1,0 +1,137 @@
+-------------------------INTRODUCTION TO PYTHON-----------------------
+
+
+
+
+1. What is Python
+
+* Python is a high-level, interpreted programming language.
+
+* Python is a high-level language because:
+
+  - It uses simple, human-readable syntax
+  - It hides hardware and memory details
+  - Memory management is automatic
+  - It is platform independent
+  - Code is executed by an interpreter, not directly by hardware
+  - It provides built-in functions and libraries
+  
+These features let programmers focus on logic, 
+not machine-level details.
+
+
+One-line version:
+“Python is a simple, powerful programming language used to build 
+real-world applications.”
+
+
+
+
+2. Why Learn Python
+
+* Easy to learn – simple, readable syntax
+* Beginner-friendly – focus on logic, not syntax
+* Open doors to multiple career paths
+* Used in Data Science, AI, Web, Automation
+* Less code, more work done
+* Huge libraries and frameworks
+* Cross-platform – works everywhere
+* Strong community support
+
+
+
+
+3. Where Python is Used
+
+* Data Science & Data Analytics
+* Machine Learning & Artificial Intelligence
+* Web Development (Django, Flask)
+* Automation & Scripting
+* Game Development
+* Desktop Applications
+* Scientific & Research work
+* Cybersecurity & Networking
+* Web scraping
+* Finance & Banking applications
+
+
+
+
+4. Features of Python
+
+* Simple and easy to learn – English-like syntax
+* High-level language – hides hardware details
+* Interpreted – executes code line by line
+* Platform independent – runs on Windows, Linux, macOS
+* Dynamically typed – no need to declare data types
+* Object-oriented – supports classes and objects
+* Large standard library – many built-in modules
+* Open source – free to use and modify
+* Extensible & embeddable – can work with other languages
+
+
+
+
+5. Python History 
+
+* Created by: Guido van Rossum
+* First released: 1991
+* Developed at: CWI (Netherlands)
+      About CWI
+        - It is a research institute in the Netherlands
+        - Located in Amsterdam
+        - Focuses on mathematics and computer science
+        - Guido van Rossum created Python while working at CWI
+        - CWI (Centrum Wiskunde & Informatica) is a Dutch research institute 
+          where Python was developed.
+* Name inspired by: Monty Python’s Flying Circus
+* Python 2 released: 2000
+* Python 3 released: 2008
+* Python 2 support ended: 2020
+* Current standard version: Python 3
+
+
+
+
+6. Simple Python Example
+
+print("Hello, Python")
+Explain what it does in one line.
+
+
+
+
+7. How Python Works
+
+1. We write Python code in a file (.py)
+2. The Python interpreter reads the code
+3. Code is checked and converted to bytecode
+4. Bytecode is executed line by line
+5. The computer produces output
+
+In short:
+Python code → Interpreter → Execution → Output
+
+Note - We don’t need to compile Python manually; 
+it runs directly using the interpreter.
+
+(Compile means converting high-level programming code into 
+machine-readable code so the computer can execute it.)
+
+
+
+
+8. Python vs Other Languages 
+
+| Feature           | Python                      | C                  | Java                                      |
+| ----------------- | --------------------------- | ------------------ | ---------------                           |
+| Ease of learning  | Very easy                   | Difficult          | Moderate                                  |
+| Syntax            | Simple, readable            | Complex            | Verbose (Using more words than necessary) |
+| Code length       | Short                       | Long               | Long                                      |
+| Memory management | Automatic                   | Manual             | Automatic                                 |
+| Compilation       | Interpreted                 | Compiled           | Compiled + JVM                            |
+| Speed             | Slower                      | Very fast          | Fast                                      |
+| Best for          | Beginners, AI, Data Science | System programming | Enterprise apps                           |
+
+
+
